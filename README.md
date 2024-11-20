@@ -2,8 +2,8 @@
 **About me**
 
 - 🌱 I’m currently learning Software Engineering;
-- 💬 Ask me about the Univese...
-- ⚡ Fun fact: Bassplayer and Capoeirista...
+- 💬 Ask me about the Univese;
+- ⚡ Fun fact: Bassplayer and Capoeirista.
 
 ##
 
@@ -26,10 +26,10 @@
 ##
  
 <div align="center">
-  <a href="https://github.com/Jon-nas">
+  <a href="https://github.com/jwnas">
     <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Jon-nas&show_icons=true&theme=outrun" />
   </a>
-  <a href="https://github.com/Jon-nas">
+  <a href="https://github.com/jwnas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-nas&layout=donut&theme=outrun" />
   </a>
 </div>
@@ -37,17 +37,17 @@
 ##
  
 <div align="center">
-  <a href="https://github.com/Jon-nas">
+  <a href="https://github.com/jwnas">
     <img src="https://streak-stats.demolab.com?user=Jon-nas&theme=outrun">
   </a>
 </div>
 
  ### Connect with me
-<a href="https://www.linkedin.com/in/jonasdlima">
+<a href="https://www.linkedin.com/in/jwnas">
   <img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn">
 </a>
 
 ##
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Jon-nas/count.svg"/>
+  <img src="https://profile-counter.glitch.me/jwnas/count.svg"/>
 </div>
