@@ -27,10 +27,10 @@
  
 <div align="center">
   <a href="https://github.com/jwnas">
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Jon-nas&show_icons=true&theme=outrun" />
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jwnas&show_icons=true&theme=outrun" />
   </a>
   <a href="https://github.com/jwnas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-nas&layout=donut&theme=outrun" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwnas&layout=donut&theme=outrun" />
   </a>
 </div>
 
@@ -38,7 +38,7 @@
  
 <div align="center">
   <a href="https://github.com/jwnas">
-    <img src="https://streak-stats.demolab.com?user=Jon-nas&theme=outrun">
+    <img src="https://streak-stats.demolab.com?user=jwnas&theme=outrun">
   </a>
 </div>
 
